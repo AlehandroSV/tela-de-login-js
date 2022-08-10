@@ -80,3 +80,5 @@ function checkEmail(email) {
     email
   );
 }
+
+console.log("Author: Alehandro Vidal");
